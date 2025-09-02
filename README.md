@@ -11,6 +11,8 @@ data-analysis-python-pandas/
 │ ├── treasure-map/ # treasure map game using NumPy
 │ ├── project-2/ # coming soon
 │ └── project-3/ # coming soon
+│
+└── README.md # main file
 
 ## 🚀 Technologies  
 
