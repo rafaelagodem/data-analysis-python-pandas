@@ -5,14 +5,16 @@ The goal is to practice data manipulation, statistics, visualization, and Python
 
 ## 📌 Repository structure  
 
-'''data-analysis-python-pandas/
+```
+data-analysis-python-pandas/
 │
 ├── mini-projects/ # course mini-projects
 │ ├── treasure-map/ # treasure map game using NumPy
 │ ├── project-2/ # coming soon
 │ └── project-3/ # coming soon
 │
-└── README.md # main file'''
+└── README.md # main file
+```
 
 ## 🚀 Technologies  
 
